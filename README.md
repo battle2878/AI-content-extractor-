@@ -2,7 +2,9 @@
 
 Objectives: find the content of the website by the help of AI
 Prototype
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/6a2d2a37-17d5-419a-bdab-40a84e3decda)
+
 
 
 Features :
